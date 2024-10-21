@@ -1,4 +1,4 @@
-# Discord-GMGN-Chat-Bot
+# Discord GMGN Chat Bot
 
 Discord-GMGN-Chat-Bot is a Node.js bot that uses the `discord-simple-api` package to send "Good Morning" and "Good Night" messages to specified Discord channels at 08:00 UTC and 20:00 UTC respectively.
 
@@ -22,11 +22,11 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/dante4rt/Discord-GMGN-Chat-Bot.git
+   git clone https://github.com/0xWinNode/DISCORD-GMGN-CHAT-BOT.git
    ```
 2. Navigate to the repository directory:
    ```sh
-   cd Discord-GMGN-Chat-Bot
+   cd DISCORD-GMGN-CHAT-BOT
    ```
 3. Install the necessary packages:
    ```sh
